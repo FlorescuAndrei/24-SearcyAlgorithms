@@ -13,9 +13,9 @@ Binary search
 -  Data must be sorted  
 -  Chooses the element in the middle and compares against the search value  
 -  Search the left and the right half in the same way  
-- Time complexity 0(log2n) –keeps dividing the array in half
+- Time complexity 0(log<sub>2</sub>n) –keeps dividing the array in half
 
-In the implementation i used a iterative and ar recursive method.  
+In the binary search implementation i used a iterative and ar recursive method.  
 It is preferable tu use iterative, recursive is more expensive because is overhead involved with method called.  
 
 
